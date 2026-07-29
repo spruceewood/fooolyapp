@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre o projeto
 
-O **Foooly** é um aplicativo de música em que a comunidade contribui fazendo upload de músicas diversas.
+O **Foooly** é um aplicativo de música em que artistas independentes e seus usuários possam enviar músicas e ouvir gratuitamente.
 
 ---
 
